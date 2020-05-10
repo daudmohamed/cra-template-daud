@@ -1,0 +1,25 @@
+{
+    "name": "cra-template-daud",
+    "author": "Daud Mohamed",
+    "description": "CRA plus typescript, redux, redux-saga, redux-toolkit, styled-components and webpack",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "redux",
+      "reduxjs",
+      "react-redux",
+      "redux-toolkit",
+      "redux-saga",
+      "styled-components",
+      "webpack"
+    ],
+    "main": "template.json",
+    "version": "0.1.0",
+    "license": "MIT",
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }
+  
