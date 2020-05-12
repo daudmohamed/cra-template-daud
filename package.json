@@ -15,7 +15,7 @@
       "webpack"
     ],
     "main": "template.json",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "homepage": "https://github.com/daudmohamed/cra-template-daud#readme",
     "bugs": {
