@@ -17,7 +17,11 @@
     "main": "template.json",
     "version": "1.0.1",
     "license": "MIT",
-    "files": [
+    "homepage": "https://github.com/daudmohamed/cra-template-daud#readme",
+    "bugs": {
+      "url": "https://github.com/daudmohamed/cra-template-daud/issues"
+    },
+  "files": [
       "template",
       "template.json"
     ]
